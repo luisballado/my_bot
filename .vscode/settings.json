@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/luis/my_package/install/my_package/lib/python3.10/site-packages",
+        "/home/luis/kion_ws/install/programs/local/lib/python3.10/dist-packages",
+        "/home/luis/Documents/tutorial_ros/build/my_navegation",
+        "/home/luis/Documents/tutorial_ros/install/my_navegation/lib/python3.10/site-packages",
+        "/home/luis/Documents/tutorial_ros/build/my_nav",
+        "/home/luis/Documents/tutorial_ros/install/my_nav/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/luis/my_package/install/my_package/lib/python3.10/site-packages",
+        "/home/luis/kion_ws/install/programs/local/lib/python3.10/dist-packages",
+        "/home/luis/Documents/tutorial_ros/build/my_navegation",
+        "/home/luis/Documents/tutorial_ros/install/my_navegation/lib/python3.10/site-packages",
+        "/home/luis/Documents/tutorial_ros/build/my_nav",
+        "/home/luis/Documents/tutorial_ros/install/my_nav/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
